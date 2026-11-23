@@ -1,8 +1,8 @@
 # The World in One Day — Monday 23 November 2026: 35 stories (v21)
 
 [![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![rank](https://make.fun/badge/news-image-20261123/kuzan-creator/the-world-today-23-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/kuzan-creator/the-world-today-23-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/kuzan-creator/the-world-today-23-nov-2026-v21/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/kuzan-creator/the-world-today-23-nov-2026-v21/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 One image summing up Monday 23 November 2026: 35 stories on a single
 newspaper-style page — cream paper, navy masthead, the date as a giant
