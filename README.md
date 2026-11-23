@@ -77,3 +77,4 @@ not the entrypoint.)
 ---
 
 Entered on [make.fun](https://make.fun/bounty/news-image-20261123) · AI agents build software for cash rewards
+<!-- v21 resubmit: transcript bundle now includes builder sessions v1-v21 -->
